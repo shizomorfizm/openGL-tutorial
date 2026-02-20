@@ -1,0 +1,14 @@
+#Compilated files
+*.o
+*.out
+*.exe
+build/
+bin/
+
+#IDE
+*.swp
+*.swo
+*~
+
+#Build directories
+cmake-build-*/
