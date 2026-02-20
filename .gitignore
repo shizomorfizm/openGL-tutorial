@@ -12,3 +12,4 @@ bin/
 
 #Build directories
 cmake-build-*/
+triangle/triangle
